@@ -1,0 +1,8 @@
+[submodule "sub/test/sub_main"]
+	path = sub/test/sub_main
+	url = git@github.com:tiny-flower/sub_rep.git
+	branch = main
+[submodule "sub/test/sub_test_branch"]
+	path = sub/test/sub_test_branch
+	url = git@github.com:tiny-flower/sub_rep.git
+	branch = test_branch
